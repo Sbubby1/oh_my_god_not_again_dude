@@ -78,8 +78,12 @@ var playerData ={
 			//width:300,
 			frames:
 			[
-				{width:128, height:128, startX:256, startY:256},
-				{width:128, height:128, startX:384, startY:256},
+				{width:128, height:128, startX:128, startY:128},
+				{width:128, height:128, startX:128, startY:128},
+				{width:128, height:128, startX:256, startY:130},
+				{width:128, height:128, startX:256, startY:130},
+				{width:128, height:128, startX:256, startY:130},
+				{width:128, height:128, startX:256, startY:130},
 				
 				
 			]
