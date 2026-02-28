@@ -37,13 +37,20 @@ var playerData ={
 		//The walwidth:128, height:128,
 		walk:
 		{
-			fps:2,
+			fps:3,
 			cycle:true,
 			frames:
 			[
-				{width:128, height:128, startX:0, startY:0},
-				{width:128, height:128, startX:128, startY:0},
-				{width:128, height:128, startX:256, startY:0},
+				{width:128, height:128, startX:384, startY:128},
+				{width:128, height:128, startX:0, startY:256},
+				{width:128, height:128, startX:128, startY:256},
+				{width:128, height:128, startX:256, startY:256},
+				{width:128, height:128, startX:384, startY:256},
+				// {width:128, height:128, startX:128, startY:256},
+				// {width:128, height:128, startX:384, startY:128},
+				// {width:128, height:128, startX:0, startY:256},
+				// {width:128, height:128, startX:128, startY:256},
+				
 				
 			]
 		},
