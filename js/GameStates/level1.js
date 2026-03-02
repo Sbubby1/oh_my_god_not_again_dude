@@ -167,7 +167,7 @@ gameStates[`level1`] = function()
 			bullets[currentBullet].y = wiz.y + 20;
 			bullets[currentBullet].dir = wiz.dir;
 			
-			//sounds.play(`splode`,1)
+			// sounds.play(`splode`,1)
 
 			currentBullet++;
 			if(currentBullet>=bullets.length)
