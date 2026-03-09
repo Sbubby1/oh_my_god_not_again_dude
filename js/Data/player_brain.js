@@ -25,11 +25,23 @@ var playerData ={
 		//The idle animation 
     	idle:
 		{
-			fps:15,
+			fps:200,
 			cycle:true,
 			frames:
 			[
 				{width:128, height:128, startX:0, startY:0},
+				{width:128, height:128, startX:0, startY:0},
+				{width:128, height:128, startX:0, startY:0},
+				{width:128, height:128, startX:0, startY:0},
+				{width:128, height:128, startX:0, startY:0},
+				{width:128, height:128, startX:0, startY:0},
+				{width:128, height:128, startX:0, startY:0},
+				{width:128, height:128, startX:0, startY:0},
+				{width:128, height:128, startX:0, startY:0},
+				{width:128, height:128, startX:0, startY:0},
+				{width:128, height:128, startX:0, startY:0},
+				{width:128, height:128, startX:0, startY:0},
+				{width:128, height:128, startX:128, startY:0},
 				{width:128, height:128, startX:128, startY:0},
 				
 			]
