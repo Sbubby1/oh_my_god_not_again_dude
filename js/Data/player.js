@@ -25,7 +25,7 @@ var playerData ={
 		//The idle animation 
     	idle:
 		{
-			fps:15,
+			fps:30,
 			cycle:true,
 			frames:
 			[
@@ -80,7 +80,7 @@ var playerData ={
 		//The attack animation 
 		attack:
 		{
-			fps:2,
+			fps:1,
 			cycle:false,
 			//width:300,
 			frames:
