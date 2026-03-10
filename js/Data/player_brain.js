@@ -17,7 +17,7 @@ Properties:
 					Nunber: startY | the vertical starting point of the portion of image file to be rendered
 /*----------------------------------------------*/
 
-var playerData ={
+var playerData ={    
 	info:{
 		src:`images/snale.png`
 	},
